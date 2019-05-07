@@ -25,8 +25,6 @@ function dec(a){
 function makeInt(a){
   parseInt(a,10)
 }
-makeInt('0x2328')
-makeInt('sldkjflksjf')
 
 function perserveDecimal(a){
   parseFloat(a)
