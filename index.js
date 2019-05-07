@@ -23,9 +23,10 @@ function dec(a){
 }
 
 function makeInt(a){
-  a= 
   parseInt(a,10)
 }
+makeInt('0x2328')
+makeInt()
 
 function perserveDecimal(a){
   parseFloat(a)
