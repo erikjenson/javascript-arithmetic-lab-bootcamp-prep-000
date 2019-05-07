@@ -24,13 +24,15 @@ function dec(a){
 
 function makeInt(a){
   parseInt(a,10)
-  a='0x2328'
-  a='sldkjflksjf'
+  return a
+ // a='0x2328';
+  //a='sldkjflksjf';
 }
 
 function perserveDecimal(a){
   parseFloat(a)
-  a='2.222'
-  a='sldkjflksjf'
+  return a
+  //a='2.222'
+  //a='sldkjflksjf'
 }
 
