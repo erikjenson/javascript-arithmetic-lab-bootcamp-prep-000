@@ -26,7 +26,7 @@ function makeInt(a){
   parseInt(a,10)
 }
 makeInt('0x2328')
-makeInt()
+makeInt('sldkjflksjf')
 
 function perserveDecimal(a){
   parseFloat(a)
