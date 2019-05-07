@@ -30,7 +30,7 @@ function makeInt(a){
 
 function perserveDecimal(a){
   parseFloat(a)
-  '2.222'
-  
+  a='2.222'
+  a='sldkjflksjf'
 }
 
