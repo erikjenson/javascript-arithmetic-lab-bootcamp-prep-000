@@ -26,16 +26,10 @@ function dec(a){
 }
 
 function makeInt(a){
-  parseInt(a,10)
-  return a;
- // a='0x2328';
-  //a='sldkjflksjf';
+  return parseInt(a,10)
 }
 
 function preserveDecimal(a){
-  parseFloat(a)
-  return a;
-  //a='2.222'
-  //a='sldkjflksjf'
+  return parseFloat(a)
 }
 
